@@ -1,0 +1,26 @@
+header{
+    background-color: #000028;
+    color: #d4d4d4;
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    padding: 0px 5vw;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 3rem;
+}
+
+header nav ul{
+    margin: 0rem;
+    list-style-type: none;
+    padding: 0rem;
+    display: flex;
+    gap: 1rem;
+}
+header nav ul li a{
+    color: #d4d4d4;
+    border: 0.1rem solid #d4d4d4;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+}

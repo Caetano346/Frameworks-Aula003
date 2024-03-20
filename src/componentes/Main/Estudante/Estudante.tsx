@@ -1,3 +1,5 @@
+import './Estudante.css'
+
 function Estudante(){
     return (
         <div className='box-estudante'>

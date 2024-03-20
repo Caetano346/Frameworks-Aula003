@@ -1,0 +1,21 @@
+.box-estudante {
+    border: 0.2rem solid #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    width: min-content;
+    padding: 1.5rem;
+}
+.box-estudante img {
+    border-radius: 50%;
+}
+.box-estudante a {
+    background-color: #000028;
+    width: min-content;
+    color: #f0f0f0;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+}
+
+.descricao-estudante {
+    text-align: justify;
+}

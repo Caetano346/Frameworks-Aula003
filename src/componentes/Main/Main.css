@@ -1,0 +1,11 @@
+main {
+    /*background-color: red;*/
+}
+
+.box-estudante {
+    border: 0.2rem solid #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    width: min-content;
+    padding: 1.5rem;
+}

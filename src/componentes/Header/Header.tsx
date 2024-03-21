@@ -1,6 +1,6 @@
 import './Header.css'
 
-function Header(){
+function Header() {
     return(
         <header>
             <div className="logo">

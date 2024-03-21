@@ -1,7 +1,7 @@
 import './Main.css'
 import Estudante from './Estudante/Estudante'
 
-function Main(){
+function Main() {
     return(
         <main>
             <Estudante />

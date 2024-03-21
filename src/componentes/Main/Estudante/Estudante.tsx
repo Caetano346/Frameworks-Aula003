@@ -1,6 +1,6 @@
 import './Estudante.css'
 
-function Estudante(){
+function Estudante() {
     return (
         <div className='box-estudante'>
                 <img src="https://github.com/Caetano346.png" alt="Foto Estudante" />

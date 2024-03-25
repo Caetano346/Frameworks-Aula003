@@ -1,6 +1,6 @@
 import './Footer.css'
 
-function Footer()m{
+function Footer() {
     return(
         <footer>Footer</footer>
     )

@@ -177,7 +177,7 @@ function Main() {
     return(
         <main>
             {
-                estudantes.map((estudante)=>{
+                estudantes.map( (estudante) => {
                     return(
                         <Estudante
                             nome={estudante.nome}

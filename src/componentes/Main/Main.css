@@ -1,7 +1,22 @@
 main{
     padding: 5vw;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: center;
     row-gap: 2rem;
+}
+@media (max-width:800px){
+    main{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+@media (max-width:580px){
+    main{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media (max-width:400px){
+    main{
+        grid-template-columns: 1fr;
+    }
 }

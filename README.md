@@ -1,4 +1,4 @@
-# Aula 003 de Frameworks
+# Aula de Frameworks
 
 # Tecnologias utilizadas:
 # HTML, CSS, JavaScript, React + TypeScript + Vite
